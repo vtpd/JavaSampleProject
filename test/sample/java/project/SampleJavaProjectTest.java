@@ -21,7 +21,7 @@ public class SampleJavaProjectTest {
     @Before
     public final void setUp() {
         sjp = new SampleJavaProject();
-    }    something     something
+    }    something                   something
 
     /**
      * Tests the generated setter and getter methods.
