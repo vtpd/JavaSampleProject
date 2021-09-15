@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.git",
+    "\\.git\\hooks",
+    "\\test",
+    "\\test\\sample",
+    "\\test\\sample\\java",
+    "\\test\\sample\\java\\project"
+  ],
+  "SelectedNode": "\\test\\sample\\java\\project\\SampleJavaProjectTest.java",
+  "PreviewInSolutionExplorer": false
+}
